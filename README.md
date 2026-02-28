@@ -1,8 +1,8 @@
 # Top Design Systems — Claude Code Skill
 
-A [Claude Code](https://claude.ai/claude-code) skill that gives Claude deep knowledge of the **top 20 design systems** used by the world's leading tech companies, sourced from [UI Guideline's](https://www.uiguideline.com) annual survey.
+A [Claude Code](https://claude.ai/claude-code) skill that equips Claude with deep knowledge of the **top 20 design systems** used by the world's leading tech companies, sourced from [UI Guideline's](https://www.uiguideline.com) annual survey.
 
-When installed, Claude uses this knowledge during your **planning phase** to make better-informed decisions about component architecture, design tokens, accessibility, theming, and technology choices — grounded in real patterns from production design systems at Google, Microsoft, Adobe, Shopify, GitHub, IBM, and more.
+When installed, Claude draws on this knowledge during your **planning phase** to make better-informed decisions about component architecture, design tokens, accessibility, theming, and technology choices — grounded in real, production-proven patterns from design systems at Google, Microsoft, Adobe, Shopify, GitHub, IBM, and more.
 
 ## What This Skill Does
 
