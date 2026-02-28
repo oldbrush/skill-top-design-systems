@@ -51,13 +51,13 @@ mkdir -p .claude/skills
 
 # Download the skill file
 curl -o .claude/skills/top-design-systems.md \
-  https://raw.githubusercontent.com/blakenewcomb/skill-top-design-systems/main/.claude/skills/top-design-systems.md
+  https://raw.githubusercontent.com/oldbrush/skill-top-design-systems/main/.claude/skills/top-design-systems.md
 ```
 
 ### Option 2 — Clone the Entire Repo
 
 ```bash
-git clone https://github.com/blakenewcomb/skill-top-design-systems.git
+git clone https://github.com/oldbrush/skill-top-design-systems.git
 cp skill-top-design-systems/.claude/skills/top-design-systems.md /path/to/your/project/.claude/skills/
 ```
 
